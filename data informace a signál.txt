@@ -1,0 +1,22 @@
+B
+ Data are facts obtained from reality, e.g. measured physical quantities 
+(temperature, pressure, weight), historical data, photos, sound or film 
+records etc.
+ The term information refers to information that has already been evaluated
+neatly arranged data into a form that has some meaning. Thanks in
+formations, we create knowledge about the surrounding world and based on information
+by which we can make decisions about our actions. 
+Information has an intangible nature. For its storage, transfer and processing
+it uses a signal - a physical carrier of information. 
+In its primitive form, the signal can be e.g. knot on string, hung 
+flag on the mast etc. It is used as a sign for machine information processing
+ly use various physical quantities that change their state (electrical to
+voltage, magnetic polarization, electromagnetic wave, sound wave, 
+gas or liquid pressure...).
+ C
+ 
+ Daten, Informationen, Signal
+ Der Unterschied zwischen Daten und Informationen lässt sich am Beispiel der Identifizierung erklären 
+passieren. Die Karte enthält Text-, Zahlen- und Grafikdaten. Isolierte Daten 
+Sie haben an sich keine Bedeutung, nur ihre Aufnahme in die Karte erzeugt Smy
+vollständige Informationen über die angegebene Person
